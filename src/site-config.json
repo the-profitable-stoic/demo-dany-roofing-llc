@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Dany Roofing LLC",
+    "phone": "+19154431684",
+    "category": "roofer",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Roofing Experts",
+      "heroSubline": "Dany Roofing LLC: Reliable roofing services built on experience and integrity. Protecting your home or business in El Paso.",
+      "aboutTitle": "Your Trusted Roofing Partner in El Paso",
+      "aboutText": [
+        "Dany Roofing LLC started with a simple goal: to provide El Paso with roofing services that are both dependable and fairly priced. We saw a need for a roofing company that understood the unique challenges of our desert climate and the specific needs of our community.",
+        "Our approach is straightforward. We listen to your concerns, thoroughly inspect your roof, and offer honest solutions. We believe in clear communication and transparent pricing, ensuring you're informed every step of the way. We use quality materials that stand up to the El Paso sun and infrequent, but sometimes intense, rain.",
+        "We're proud to be a part of the El Paso community. We support local initiatives and strive to build lasting relationships with our clients. We're not just building roofs; we're building trust and protecting families and businesses across the city."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of El Paso's climate and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Durable roofing solutions designed for the desert environment."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees, just honest and upfront estimates."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Committed to completing projects on time and within budget."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Roofing Estimate Today!",
+      "ctaSubline": "Protect your El Paso property with a reliable roof. Contact Dany Roofing LLC for a free inspection and quote."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast and reliable roof repair services for El Paso homes and businesses.",
+        "description": "El Paso's intense sun and occasional storms can take a toll on your roof. Dany Roofing LLC provides comprehensive roof repair services to address leaks, damaged shingles, and other issues. We understand the urgency of roof repairs and respond quickly to minimize further damage to your property.\n\nOur experienced technicians will thoroughly inspect your roof to identify the source of the problem. We then provide a detailed explanation of the necessary repairs and a transparent estimate. We use quality materials that match your existing roof and ensure a seamless repair.\n\nWhether you have a minor leak or significant damage, Dany Roofing LLC is here to provide prompt and professional roof repair services. We handle all types of roofing materials, including asphalt shingles, tile, and metal roofing. We'll ensure your roof is restored to its optimal condition, protecting your home or business from the elements.",
+        "process": [
+          "Inspection: Thorough assessment of damage.",
+          "Estimate: Transparent and detailed cost breakdown.",
+          "Repair: Expert repair using matching materials.",
+          "Cleanup: Complete site cleanup after work."
+        ],
+        "benefits": [
+          "Leak Prevention",
+          "Extended Roof Lifespan",
+          "Improved Curb Appeal",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We understand the urgency of roof repairs and strive to respond within 24 hours. Our team will assess the damage and provide a timely solution to prevent further issues."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer emergency roof repair services for situations that require immediate attention, such as severe leaks or storm damage. Contact us anytime, and we'll dispatch a team as quickly as possible."
+          },
+          {
+            "question": "What types of roof repairs do you handle?",
+            "answer": "We handle all types of roof repairs, including leak detection and repair, shingle replacement, flashing repair, and damage from wind, hail, or other elements. No repair is too big or too small."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your El Paso home with a durable and energy-efficient roof replacement.",
+        "description": "Is your roof nearing the end of its lifespan? Dany Roofing LLC offers professional roof replacement services to protect your El Paso home or business. We understand that a new roof is a significant investment, and we're committed to providing quality workmanship and lasting results.\n\nWe offer a wide selection of roofing materials to suit your style and budget, including asphalt shingles, tile, and metal roofing. Our experienced team will guide you through the selection process and help you choose the best option for your property. We'll handle every aspect of the roof replacement, from removing the old roof to installing the new one with precision and care.\n\nA new roof can not only enhance the appearance of your home but also improve its energy efficiency and resale value. Dany Roofing LLC is dedicated to providing reliable and affordable roof replacement services that meet your needs and exceed your expectations. We'll make sure your investment is protected for years to come.",
+        "process": [
+          "Consultation: Discuss material options and budget.",
+          "Removal: Safe removal of the old roof.",
+          "Installation: Expert installation of the new roof.",
+          "Inspection: Final quality check and cleanup."
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Improved Energy Efficiency",
+          "Enhanced Curb Appeal",
+          "Long-Term Protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as the weather conditions. Typically, a roof replacement takes between 1 to 5 days."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide range of roofing materials, including asphalt shingles, tile, and metal roofing. Each material has its own benefits and aesthetic appeal. We'll help you choose the best option for your property."
+          },
+          {
+            "question": "Do you offer financing options for roof replacement?",
+            "answer": "Yes, we offer flexible financing options to help make roof replacement more affordable. Contact us to discuss your options."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Thorough roof inspections to identify potential problems and prevent costly repairs.",
+        "description": "Regular roof inspections are crucial for maintaining the integrity of your El Paso roof. Dany Roofing LLC provides comprehensive roof inspection services to identify potential problems early on and prevent costly repairs down the road. Our experienced inspectors will thoroughly assess your roof, looking for signs of damage, wear and tear, and other issues.\n\nWe'll provide you with a detailed report outlining our findings and recommendations for any necessary repairs or maintenance. A roof inspection can help you identify leaks, damaged shingles, and other problems before they escalate into major issues. It's also a good idea to have your roof inspected after a major storm to assess any potential damage.\n\nDany Roofing LLC is committed to providing reliable and affordable roof inspection services that protect your investment and ensure the safety of your home or business. Schedule your roof inspection today to keep your roof in optimal condition.",
+        "process": [
+          "Visual Assessment: Examination of roof surface.",
+          "Detailed Report: Comprehensive findings and recommendations.",
+          "Leak Detection: Identification of potential leak sources.",
+          "Preventative Advice: Tips for maintaining roof health."
+        ],
+        "benefits": [
+          "Early Problem Detection",
+          "Preventative Maintenance",
+          "Peace of Mind",
+          "Cost Savings"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, preferably in the spring and fall. It's also a good idea to have your roof inspected after a major storm."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "A roof inspection includes a thorough visual assessment of your roof's surface, looking for signs of damage, wear and tear, and other issues. We'll also check for leaks and provide you with a detailed report outlining our findings."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection depends on the size and complexity of the roof. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Expert commercial roofing services for El Paso businesses.",
+        "description": "Dany Roofing LLC provides comprehensive commercial roofing services for businesses in El Paso and the surrounding areas. We understand the unique challenges of commercial roofing, and we're equipped to handle projects of all sizes and complexities.\n\nWe offer a wide range of commercial roofing services, including roof repair, roof replacement, and roof maintenance. Our experienced team will work closely with you to develop a customized roofing solution that meets your specific needs and budget. We use quality materials and proven techniques to ensure a durable and long-lasting roof.\n\nWhether you need a new roof for your office building, retail store, or industrial facility, Dany Roofing LLC is here to provide reliable and affordable commercial roofing services. We're committed to minimizing disruption to your business operations and completing projects on time and within budget.",
+        "process": [
+          "Consultation: Needs assessment and planning.",
+          "Material Selection: Choosing the right materials.",
+          "Installation: Expert installation and project management.",
+          "Maintenance: Ongoing maintenance programs."
+        ],
+        "benefits": [
+          "Reduced Energy Costs",
+          "Improved Building Protection",
+          "Extended Roof Lifespan",
+          "Minimal Business Interruption"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you install?",
+            "answer": "We install a variety of commercial roofing systems, including TPO, PVC, metal roofing, and built-up roofing. We'll help you choose the best option for your building and budget."
+          },
+          {
+            "question": "Do you offer roof maintenance programs for commercial buildings?",
+            "answer": "Yes, we offer customized roof maintenance programs to help extend the lifespan of your commercial roof and prevent costly repairs."
+          },
+          {
+            "question": "How quickly can you respond to a commercial roofing emergency?",
+            "answer": "We understand the importance of responding quickly to commercial roofing emergencies. We offer 24/7 emergency service to minimize damage and disruption to your business."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Protect your El Paso home with professional gutter installation, repair, and cleaning.",
+        "description": "Gutters play a vital role in protecting your El Paso home from water damage. Dany Roofing LLC offers comprehensive gutter services to ensure your gutters are functioning properly and effectively channeling water away from your foundation. We understand the importance of properly installed and maintained gutters, especially in our climate where even sporadic rainfall can cause significant damage if not managed well.\n\nWe offer gutter installation, repair, and cleaning services. Our experienced technicians will assess your gutter system and provide you with the best solutions for your needs. Whether you need new gutters installed, existing gutters repaired, or simply a thorough cleaning, Dany Roofing LLC is here to help. Regular maintenance of your gutters can prevent water damage, protect your landscaping, and extend the lifespan of your roof.\n\nWe offer a variety of gutter materials to suit your style and budget, including aluminum, copper, and vinyl gutters. Our team is committed to providing reliable and affordable gutter services that protect your investment and ensure the safety of your home.",
+        "process": [
+          "Inspection: Assessment of gutter condition and needs.",
+          "Cleaning: Removal of debris and obstructions.",
+          "Repair: Fixing leaks and damage.",
+          "Installation: Professional installation of new gutters."
+        ],
+        "benefits": [
+          "Foundation Protection",
+          "Landscaping Preservation",
+          "Water Damage Prevention",
+          "Extended Roof Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. If you have trees near your home, you may need to clean them more frequently."
+          },
+          {
+            "question": "What are the signs that my gutters need repair?",
+            "answer": "Signs that your gutters need repair include leaks, sagging, rust, and overflowing water."
+          },
+          {
+            "question": "What types of gutter materials do you offer?",
+            "answer": "We offer a variety of gutter materials, including aluminum, copper, and vinyl gutters. We'll help you choose the best option for your home and budget."
+          }
+        ]
+      },
+      {
+        "slug": "tile-roofing",
+        "name": "Tile Roofing",
+        "shortDescription": "Durable and beautiful tile roofing solutions for El Paso homes, built to last.",
+        "description": "Tile roofing is a popular choice for El Paso homes due to its durability, aesthetic appeal, and ability to withstand the harsh desert climate. Dany Roofing LLC specializes in tile roof installation, repair, and maintenance. We understand the unique challenges and requirements of tile roofing, and we're committed to providing quality workmanship and lasting results.\n\nWe offer a wide selection of tile roofing materials, including clay, concrete, and slate tiles. Our experienced team will guide you through the selection process and help you choose the best option for your home. We'll handle every aspect of the tile roof installation, from preparing the roof deck to installing the tiles with precision and care. A properly installed tile roof can last for decades, providing superior protection and enhancing the beauty of your home.\n\nDany Roofing LLC is dedicated to providing reliable and affordable tile roofing services that meet your needs and exceed your expectations. We'll make sure your investment is protected for years to come.",
+        "process": [
+          "Consultation: Discuss tile options and design.",
+          "Preparation: Roof deck preparation.",
+          "Installation: Careful tile placement and securing.",
+          "Inspection: Quality check and sealing."
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Enhanced Aesthetic Appeal",
+          "Fire Resistance",
+          "Long Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How long does a tile roof last?",
+            "answer": "A properly installed tile roof can last for 50 years or more, making it a durable and cost-effective roofing option."
+          },
+          {
+            "question": "Is tile roofing more expensive than other roofing materials?",
+            "answer": "Tile roofing is generally more expensive than asphalt shingles, but its long lifespan and durability can make it a worthwhile investment in the long run."
+          },
+          {
+            "question": "Does tile roofing require special maintenance?",
+            "answer": "Tile roofing requires minimal maintenance. However, it's important to have your tile roof inspected regularly for any signs of damage or wear and tear."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "Dany Roofing LLC is proud to serve the El Paso community with top-quality roofing services. We understand the unique challenges that El Paso's climate presents, from intense sun exposure to seasonal storms. Our experienced team is equipped to handle all your roofing needs, whether it's a minor repair, a complete roof replacement, or a new roof installation. We are committed to providing reliable, durable, and aesthetically pleasing roofing solutions for homes and businesses throughout El Paso.\n\nWe use only the highest quality materials and employ skilled craftsmanship to ensure that your roof stands the test of time. Our services include shingle roofing, tile roofing, metal roofing, and flat roofing, as well as roof inspections, maintenance, and emergency repairs. Dany Roofing LLC is dedicated to exceeding your expectations with exceptional service and competitive pricing. We are licensed and insured for your protection and peace of mind.",
+        "localContext": "El Paso is a vibrant city known for its rich culture, delicious food, and stunning desert landscapes, requiring roofing solutions that can withstand the extreme heat and occasional monsoons.",
+        "nearbyAreas": [
+          "Socorro",
+          "Anthony",
+          "Canutillo"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "Dany Roofing LLC extends its expert roofing services to the residents and businesses of Socorro, TX. As a neighboring community of El Paso, Socorro shares similar climatic conditions, demanding robust and weather-resistant roofing solutions. We offer a comprehensive range of roofing services, including repairs, replacements, and new installations, tailored to meet the specific needs of Socorro's diverse properties.\n\nOur team is committed to providing exceptional workmanship and using only the finest materials to ensure the longevity and performance of your roof. We understand the importance of a reliable roof in protecting your home or business from the elements. Dany Roofing LLC is dedicated to delivering superior service and customer satisfaction in Socorro.",
+        "localContext": "Socorro, with its historical charm and growing community, benefits from roofing solutions that blend durability with aesthetic appeal, complementing the town's unique character.",
+        "nearbyAreas": [
+          "El Paso",
+          "Clint",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "Dany Roofing LLC proudly serves the community of Anthony, TX, providing reliable and affordable roofing solutions. We understand the importance of a well-maintained roof in protecting your home or business from the elements. Our team of experienced roofers is equipped to handle all your roofing needs, from minor repairs to complete roof replacements.\n\nWe offer a wide range of roofing services, including shingle roofing, metal roofing, and flat roofing. We use only the highest quality materials and employ skilled craftsmanship to ensure that your roof stands the test of time. Dany Roofing LLC is committed to providing exceptional service and customer satisfaction in Anthony.",
+        "localContext": "Anthony, straddling the Texas-New Mexico border, needs roofs that can withstand both desert heat and occasional snow, making quality installation and materials crucial.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Sunland Park, NM"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "Dany Roofing LLC is dedicated to providing top-notch roofing services to the residents and businesses of Canutillo, TX. We recognize the unique roofing needs of this community and offer tailored solutions to address them effectively. Our services include roof repairs, replacements, and new installations, all performed with exceptional craftsmanship and attention to detail.\n\nWe use only the highest quality materials to ensure the durability and longevity of your roof. Our team is committed to providing excellent customer service and exceeding your expectations. Dany Roofing LLC is your trusted partner for all your roofing needs in Canutillo.",
+        "localContext": "Canutillo's location near the Rio Grande calls for roofing that can withstand potential flooding and erosion, making proper drainage and sealing essential.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "Dany Roofing LLC is pleased to offer its professional roofing services to the growing community of Horizon City, TX. We understand the importance of a reliable and well-maintained roof in protecting your home and family. Our team of experienced roofers is equipped to handle all your roofing needs, from minor repairs to complete roof replacements.\n\nWe offer a wide range of roofing services, including shingle roofing, tile roofing, and metal roofing. We use only the highest quality materials and employ skilled craftsmanship to ensure that your roof stands the test of time. Dany Roofing LLC is committed to providing exceptional service and customer satisfaction in Horizon City.",
+        "localContext": "Horizon City's rapid growth means many new constructions benefit from Dany Roofing's expertise in new roof installations and ensuring long-term protection.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "Dany Roofing LLC proudly serves the community of Clint, TX, with reliable and affordable roofing services. We understand the unique challenges that the Texas climate presents to roofs, and we are committed to providing solutions that stand the test of time. Our services include roof repairs, replacements, and new installations, all performed with exceptional craftsmanship and attention to detail.\n\nWe use only the highest quality materials and employ skilled technicians to ensure the durability and longevity of your roof. Dany Roofing LLC is dedicated to providing excellent customer service and exceeding your expectations in Clint.",
+        "localContext": "Clint's agricultural setting and proximity to the Rio Grande require roofing solutions that can resist dust, humidity, and potential water damage.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "Vinton",
+        "slug": "vinton-tx",
+        "state": "TX",
+        "content": "Dany Roofing LLC extends its roofing expertise to the residents of Vinton, TX. We are dedicated to providing reliable and affordable roofing solutions that meet the unique needs of this community. Our services include roof repairs, replacements, and new installations, all performed with exceptional craftsmanship and attention to detail.\n\nWe use only the highest quality materials to ensure the durability and longevity of your roof. Dany Roofing LLC is committed to providing excellent customer service and exceeding your expectations in Vinton. We're ready to help with any roofing project, big or small.",
+        "localContext": "Vinton, a smaller community near El Paso, relies on dependable roofing services to protect homes from the elements, ensuring peace of mind for its residents.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Anthony"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "Dany Roofing LLC is proud to offer its roofing services to the historic town of San Elizario, TX. We appreciate the unique architectural heritage of this community and are committed to providing roofing solutions that complement its character. Our services include roof repairs, replacements, and new installations, all performed with exceptional craftsmanship and attention to detail.\n\nWe use only the highest quality materials to ensure the durability and longevity of your roof. Dany Roofing LLC is dedicated to providing excellent customer service and exceeding your expectations in San Elizario. We understand the importance of preserving the historic charm of this town while providing modern roofing solutions.",
+        "localContext": "San Elizario's historic architecture requires roofing solutions that respect the town's aesthetic while providing modern protection from the elements.",
+        "nearbyAreas": [
+          "Socorro",
+          "Clint",
+          "Horizon City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Dany Roofing fixed a leak in my roof after the last big rain. They were quick, professional, and the price was fair. I highly recommend them!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "The team from Dany Roofing did a great job cleaning my gutters. They were overflowing with leaves and debris, but now they're working perfectly. Appreciate the thorough service.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We had our entire roof replaced by Dany Roofing, and we couldn't be happier. The crew was efficient, and the new roof looks fantastic. They even cleaned up everything afterward!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "Dany Roofing provided a very detailed roof inspection. I appreciated their honesty and recommendations. I'll definitely use them for future maintenance.",
+        "date": "2024-10-01"
+      },
+      {
+        "name": "Sarah P.",
+        "rating": 4,
+        "service": "Commercial Roofing",
+        "text": "Dany Roofing handled a small repair on our commercial building's roof. They were responsive and did a good job. Will call them again if needed.",
+        "date": "2024-11-18"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Tile Roofing",
+        "text": "Dany Roofing installed a beautiful tile roof on my new home. The quality of the work is outstanding, and it really enhances the look of the house. Great job!",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Dany Roofing LLC | El Paso, TX",
+        "description": "Reliable roofing services in El Paso. Roof repair, replacement, inspections. Free estimates. Local experts."
+      },
+      "about": {
+        "title": "About Us | Dany Roofing LLC El Paso",
+        "description": "Learn about Dany Roofing LLC in El Paso, TX. Our commitment to quality, service, and the El Paso community."
+      },
+      "services": {
+        "title": "Roofing Services | Dany Roofing LLC",
+        "description": "Dany Roofing LLC offers comprehensive roofing services in El Paso, TX. Repair, replacement, inspection, and more."
+      },
+      "contact": {
+        "title": "Contact Dany Roofing LLC | El Paso, TX",
+        "description": "Contact Dany Roofing LLC for roofing services in El Paso. Get a free estimate for your roof repair or replacement project."
+      },
+      "reviews": {
+        "title": "Dany Roofing LLC Reviews | El Paso, TX",
+        "description": "Read reviews for Dany Roofing LLC in El Paso, TX. See what our customers are saying about our roofing services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Dany Roofing LLC",
+        "description": "Dany Roofing LLC provides roofing services in El Paso, TX, and surrounding areas. Find out if we service your location."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "tile-roofing": "/images/service-tile-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-roofing": {
+        "src": "/images/service-tile-roofing.webp",
+        "srcset": "/images/service-tile-roofing-400w.webp 400w, /images/service-tile-roofing-800w.webp 800w, /images/service-tile-roofing-1200w.webp 1200w, /images/service-tile-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
